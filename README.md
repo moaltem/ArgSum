@@ -24,6 +24,6 @@ This GitHub repository contains the data, models, and code used in the investiga
 5. *flan_t5_sum*: Fine-tuning of FLAN T5 for argument summary generation (given a cluster of similar arguments)
 6. *human_eval*: Examination of inter-rater reliability and the correlation between human judgements and automatic evaluation metrics
 7. *arg_seperation_capability*: Examination of the ability of clustering-based ArgSum systems to separate arguments 
-8. *get_cluster_sums*: Generate argument summaries with clustering-based ArgSum systems
-9. *get_classification_sums*: Generate argument summaries with classification-based ArgSum systems
+8. *get_cluster_sums*: Generation of argument summaries with clustering-based ArgSum systems
+9. *get_classification_sums*: Generation of argument summaries with classification-based ArgSum systems
 10. *eval_sums*: Automatic evaluation of the generated argument summaries
