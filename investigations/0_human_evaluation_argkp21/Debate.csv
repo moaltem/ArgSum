@@ -1,0 +1,962 @@
+human_scores,topic,stance,refs,preds,bert_score_p,bart_score_parabank_rs,coverage_score,llm_coverage,llm_redundancy,runtime
+0.7,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Abortion is like killing a human
+If you can't afford to have a child, you can give the child to someone else
+The fetus is a living being that can be killed
+It is preferable to kill someone
+Fertilization is the beginning of life
+If they are not ready for a child, they should be more careful if they don't want a child
+It is morally acceptable to kill a child
+There is no difference between killing a baby and that of a one inside a mother
+People have a right not to kill, say, a future child
+A abortion is killing the child
+A fetus is alive
+Sex should be prepared for the consequences",0.5211873054504395,0.6338763616336536,0.6,0.93,0.55,21.563
+0.8,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Abortion is murder.
+Unborn baby's innocence should be respected.
+Unborn have the right to live.
+Fetus is a living human being.
+Responsibility should be taken, not abortion.
+Choosing abortion is avoiding responsibility for actions.
+Give child up for adoption, not abortion.",0.6687027215957642,0.77346311656973,0.6,0.89,0.4142857142857143,6.936
+0.6,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Abortion is murder.
+Put the baby up for adoption.
+Abortion causes health problems.",0.6719719767570496,0.7279481158366693,0.4,0.65,0.3333333333333333,3.168
+0.4,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Abortion is killing a living being.
+Abortion is morally wrong.
+Give the child up for adoption.
+ Abortion denies a future human being.",0.6218023896217346,0.7679092512005559,0.6,0.72,0.275,45.34582
+0.8,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Adoption is a viable alternative to abortion.
+Abortion is equivalent to killing a human being.
+Women should take responsibility for their actions.
+Abortion denies the right to life.
+Adoption provides a solution for unwanted pregnancies.
+Abortion is morally wrong and unjustifiable.
+Human life begins at conception.
+Abortion eliminates the potential of a future human being.",0.5545162558555603,0.6626551723620855,0.4,0.93,0.4125,20.07781
+0.6,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Abortion is taking a life and that is bad.
+Abortion is murder and should not be given as a right to women
+The abortionist goal is to kill that which is growing
+technically a fetus is indeed alive, a zygote is alive.
+eventually give her child up to adoption
+Dont murder it!
+Just because it isn't born yet, what makes it any less of a human?
+putting it up for adoption,
+However, the most common abortion is resulting from people being careless and stupid, not rape.
+the parents should have been more careful if they didnt want a child",0.4988327920436859,0.7132429606347697,0.6,0.94,0.44,108.42955
+0.8,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Adoption is a viable alternative to abortion.
+Abortion is equivalent to murder.
+Abortion denies the right to life.
+Adoption provides a loving family.
+Abortion is a selfish decision.
+Abortion is immoral and wrong.
+Adoption is a compassionate choice.
+Give the child up for adoption.",0.6399474143981934,0.7593022528175009,0.6,0.8800000000000001,0.4875,9.96519
+0.6,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Adoption is a viable alternative to abortion.
+Abortion is equivalent to killing a human being.
+Responsibility should be taken for actions leading to pregnancy.",0.4822165071964264,0.6285470701445647,0.4,0.71,0.0333333333333333,5.64604
+0.6,abortion,-1,"Put baby up for adoption.
+Abortion kills a life.
+An unborn baby is a human and has the right to live.
+Be willing to have the baby if you have sex.
+Abortion is harmful for women.","Abortion is the unjustified taking of a human life in the early stages of development and that is wrong.
+People should understand the consequences of having sex and abortion should not be a option.
+Abortion is immoral because it eliminates life.
+Abortion eliminates the potential societal contributions of a future human being.
+A childless couple isn't acting irresponsibly if they are prepared to take responsibility if they have sex.
+If it is an individual human being, it has all the rights and protections of all other human beings.
+Abortion means denying the opportunity of life to what would've been a someone.
+Abortion should never occur simply because of teenage pregnancy",0.4156818985939026,0.5846570606907278,0.4,0.9,0.4,11.64112
+0.5,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","The fetus is a part of the mother's body
+The fetus is alive in the strict biological sense
+If a 15-year-old girl was raped, then abortion should be allowed if she wants to
+The fetus is the result of a rape/incest
+The child will suffer from the consequences of the parents' mistakes
+The cluster of cells is not self-aware and cannot feel anything we might consider human
+There are more unwanted children than homes
+People should have the ability to make their own choice
+Making abortions illegal will lead to more abortions for women",0.3921870291233063,0.5126960383360217,0.0,0.6375,0.4111111111111111,44.994
+0.25,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Young mothers deserve support and understanding.
+Fetal rights should not precede viability.
+Abortion is a woman's right to choose.
+Abortion is a backup when contraception fails.
+Foster care overwhelmed; more unwanted children.
+Fetus is not a person until birth.",0.531468391418457,0.599401290650554,0.375,0.7125,0.4833333333333333,6.445
+0.6875,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Abortion is the woman's choice.
+A fetus is not a person.
+Abortion mainly in first trimester.
+Fetus not yet a human being.
+Abortion is not murder.
+Abortion restrictions after 3rd trimester.
+Abortion justified in rape and incest cases.
+Abortion acceptable if mother's life at risk.
+Abortion is the woman's decision.
+Support abortion up to a point in pregnancy.
+Abortion acceptable in cases of rape.
+Abortion to prevent burden and strain.
+Fetus not considered living.
+Fetus cannot think or feel.
+Abortion choice if unable to care for child.
+Abortion should always be an option.",0.6547893285751343,0.6761261655008605,0.625,0.86875,0.61875,6.367
+0.625,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Abortion is a matter of bodily autonomy.
+Abortion is not equivalent to murder.
+Abortion is justified in cases of rape.
+The decision should lie with the parents.
+ Unwanted children may face neglect or suffering.
+Financial constraints may warrant abortion.
+Illegal abortions pose risks to women's health.
+ Abortion is acceptable in early stages.",0.538276195526123,0.6402534781880758,0.75,0.8125,0.4625,67.5966
+0.25,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Abortion is a woman's right to choose.
+Legal abortion prevents unsafe procedures.
+Women should not be forced into motherhood.
+Abortion is acceptable in cases of danger.",0.4977206885814667,0.5966692965947942,0.25,0.6,0.3,12.28875
+0.625,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Abortion should be legal as it is the mother's decision to kill said baby
+- the fetus is the result of a rape or incestuous encounter;
+Abortion should definitely banned except when the mothers life may be at risk.
+But people should have the right to make the choices that affect their life.
+Abortion is not Murder.
+Abortion is also not the taking of a human life.
+A women has a right to not have her body used by someone else.
+adoption homes are flooded with unwanted children
+abortion if the woman is not going to take care of her child",0.5589256882667542,0.6215619195785947,0.375,0.7125,0.3888888888888888,82.16389
+0.625,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Women's right to choose abortion is fundamental.
+Abortion is justified in cases of rape or incest.
+Unwanted children may face neglect and suffering.
+Abortion should be a legal and safe procedure.
+Financial constraints can justify abortion decisions.
+Access to safe abortions prevents unsafe procedures.
+A woman's autonomy over her body is paramount.
+Abortion is not equivalent to murder.",0.5354235768318176,0.6230721224166459,0.375,0.8125,0.3874999999999999,10.43543
+0.6875,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","Women have the right to decide on abortion.
+Abortion is a woman's choice for her body.
+Legal abortion prevents unsafe procedures.
+Abortion should be allowed in cases of rape.
+Abortion is not considered murder scientifically.
+Abortion is acceptable for health or financial reasons.
+Adoption may not be a viable alternative to abortion.
+A fetus does not have the same rights as a person.
+Abortion is justified to prevent suffering.",0.5276128053665161,0.6430286301709951,0.5,0.89375,0.3555555555555556,7.56592
+0.5,abortion,1,"Abortion is a womans right.
+Rape victims need it to be legal.
+A fetus is not a human yet, so it's okay to abort.
+Abortion should be allowed when a mother's life is in danger.
+Unwanted babies are ill-treated by parents and/or not always adopted.
+Birth control fails at times and abortion is one way to deal with it.
+Abortion is not murder.
+Mother is not healthy/financially solvent.","parents should have the power to make the decision themselves and not face any legal hindrance of any form.
+If a woman doesn't have the economic resources to support the child, abortion is also an option.
+sometimes a child being born causes great strain on the parents and could possibly lead to death.
+A woman also has the right to decide what happens to her body.
+The ability of a woman to have control of her body is critical to civil rights.
+Nearly all abortions take place in the first trimester, when a fetus cannot exist independent of the mother.
+Therefore, taking a woman's right to choice is wrong regardless what a church or the government suggests.
+The vast majority of women - 88% - who have an abortion do so in their first trimester.
+Abortion is not murder because it is performed before a fetus has developed into a human person.
+Pregnancy can occur even with responsible contraceptive use.
+adoption homes are flooded with unwanted children",0.3515899181365967,0.5305757513795185,0.625,0.775,0.4636363636363636,14.59228
+0.5,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Marriage is preferable between a man and a woman
+A homosexual relationship lacks the necessary role/religiousness
+God created Adam and Eve
+Sexual disorientation is a result of childhood sexual abuse
+People are not immoral and should not be forced to do so
+It is wrong to live in a position of not producing children",0.3182896375656128,0.346237485165835,0.0,0.85,0.4,10.386
+0.75,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Parental guidance on LGBTQ+ issues may lack.
+Homosexuality opposes religious beliefs and traditions.
+Homosexuality is immoral and abnormal.",0.4731805920600891,0.4045278853678808,0.5,0.7,0.2999999999999999,3.263
+0.625,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Children from these families are more likely to struggle.
+Marriage is defined as between a man and a woman.
+Homosexuality breeds disease and moral corruption.",0.3922526240348816,0.3232130867509597,0.0,0.7,0.2333333333333334,2.551
+0.75,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Marriage should be between man and woman
+Homosexuality goes against procreation
+Homosexuality is against religious beliefs
+Children need both mother and father
+Gay marriage affects future generations
+Homosexuality is unnatural and abnormal
+Gay marriage harms society in the long run
+Homosexuality leads to moral corruption",0.4783793687820434,0.4197692436172393,0.5,1.0,0.4499999999999999,33.53776
+0.5,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Homosexuality contradicts religious beliefs
+Marriage should be between man and woman
+Homosexuality goes against procreation
+Same-sex couples cannot produce offspring",0.4789569973945617,0.3926550630665219,0.5,0.975,0.25,6.60239
+0.25,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Homosexuals does not support the purpose of life by not producing children
+A homosexual relationship will be lacking the legal bind, and the ability to produce offspring.
+Children should have a mother and a father as role models.",0.2960453033447265,0.2855412317930073,0.0,0.6625,0.1333333333333333,15.36939
+0.75,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Gay marriage goes against societal norms.
+Homosexuality hinders population growth.
+Homosexuality goes against religious beliefs.
+Marriage is for procreation, not homosexuality.
+Homosexuality is unnatural and abnormal.
+Homosexuality is considered a sin.
+Children need both a mother and father.
+Marriage should be between man and woman.",0.5588429570198059,0.458602158831679,0.5,0.975,0.375,10.07367
+1.0,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Homosexuality contradicts religious beliefs and traditions.
+Marriage is defined as between a man and a woman.
+Homosexuality goes against procreation and family values.
+Same-sex couples cannot naturally produce offspring.
+Homosexuality is seen as immoral and unnatural.
+Children need both a mother and a father.
+Homosexuality is considered abnormal and harmful to society.",0.5137054920196533,0.4523119167248237,1.0,1.0,0.4142857142857143,5.58406
+0.625,gayRights,-1,"Religion does not permit gay marriages.
+Gay marriages are not normal/against nature.
+Gay parents can not raise kids properly.
+Gay people have problems and create social issues.","Homosexuality breeds disease and moral corruption.
+Men sexually attracted to other men and vice versa is a type of sexual disorientation.
+Sexual deviants would thrive in this environment.
+gay marriage is not the right option becuase it affects the future generation.
+Homosexuals are wrong because they stop the world from populating
+Children should have a mother and a father as role models.
+A homosexual relationship will be lacking the legal bind, and the ability to produce offspring.
+I believe that allowing gays to marry would harm society in the long run.",0.4108355045318603,0.39131297310347,0.25,0.925,0.4375,7.15029
+0.3,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","Parents have the same rights as other people as they are to adopt children
+The act of marrying harms straight people",0.3447526097297668,0.5465273572427091,0.0,0.55,0.0,7.808
+1.0,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","Religious beliefs should not dictate LGBTQ rights.
+Love allows gay marriage, a civil right.
+Gay marriage should be legally recognized for all.
+Love is the reason for marriage.
+Love is a right, regardless of gender.
+Marriage is a government institution, not religious.
+Equal respect for same-sex relationships is essential.
+Gay marriage promotes true equality.
+Denying gay marriage rights is discriminatory and outdated.
+Love has no gender restrictions.
+Parenting by same-sex couples has no negative effects.
+Love is love, discrimination is unjust.
+Religious beliefs should not dictate legal rights.
+Love is a personal choice, not dictated.
+Sexual orientation is natural and innate.
+Gay marriage does not harm straight marriage.
+Gay parents are equally capable of raising children.
+Gays should have right to adopt.
+Equal rights for consenting adults should be universal.
+God created gays along with all people.
+Sexual orientation is not a choice.",0.6366575956344604,0.7507198298493463,0.6,0.91,0.5,16.692
+0.8,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","Gay marriage does not harm anyone.
+Homosexuality is not immoral or harmful.
+Children raised by same-sex parents turn out fine.
+Love is equal regardless of gender.
+Homosexuality is natural and not wrong.
+Marriage equality is about equal benefits.
+Legalizing gay marriage benefits families.
+Allowing gay couples to adopt helps children.
+Denying gay marriage is discriminatory.
+Homosexuality is natural and not a choice.
+Supporting gay marriage is natural and positive.
+Respect others' love lives and choices.
+Allowing gay marriage won't change sexual orientation.
+Gay marriage does not cause harm.
+Don't restrict others based on outdated beliefs.
+Marriage is a legal, not religious, institution.
+Legal recognition benefits same-sex parents.
+Gay couples provide loving homes for children.",0.540866494178772,0.6819735737694212,0.4,0.99,0.5666666666666667,7.146
+0.8,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights."," Denying gay marriage violates rights.
+Gay marriage doesn't harm anyone.
+ Homosexuality is natural and not a choice.
+Legalizing same-sex marriage promotes equality.
+Respect for all relationships equally.
+ Everyone deserves equal marriage rights.
+No impact on straight couples' marriages.
+ Every individual deserves happiness and marriage.
+No difference in love, regardless of gender.
+ Religious beliefs should not dictate laws.",0.5552557706832886,0.6146448595721853,0.6,1.0,0.44,116.17324
+0.4,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","Gay marriage does not harm anyone.
+Homosexuality is natural and not a choice.
+Denying gay rights is discriminatory.
+Love is equal, regardless of gender.",0.5100873708724976,0.6352092569827981,0.2,0.82,0.25,14.83358
+1.0,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","gay people have the right to if they want to...
+homosexuality is not a choice
+Gay marriage would not and cannot harm straight marriage
+People have no control over who they fall in love with, male or female.
+Gay people pay taxes, they are entitled to the same rights
+The majority does not have the legal right to oppress the minority.
+children raised in gay families are completely fine.
+Plus, there are SO many children in need of good, loving homes.
+love is love
+I think gays have every bit the potential to be amazing parents that straights do.
+Archaic laws grounded in religious dogma should not be dictating rights in a secular society.",0.4466733038425445,0.6225633392864212,0.2,0.99,0.4545454545454546,112.1364
+0.6,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","Denying gay rights violates civil liberties.
+Discrimination against gays is unacceptable.
+All individuals deserve equal marriage rights.
+Gay couples can be loving, capable parents.
+Homosexuality is natural, not a choice.
+Gay marriage doesn't harm society.
+Love is the foundation of marriage.",0.5556832551956177,0.6859646398684571,0.4,0.97,0.3714285714285713,11.55627
+0.8,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","Gay marriage doesn't harm society or others.
+Homosexuals deserve equal rights and recognition.
+Denying gay marriage is discriminatory and unjust.
+Love and marriage should be universal and equal.
+Homosexuality is natural and not a choice.
+Legal benefits should be extended to all couples.
+Religious beliefs should not dictate legal rights.
+Children raised by same-sex parents turn out fine.",0.5298715829849243,0.6834281523807808,0.6,0.99,0.375,8.55822
+0.8,gayRights,1,"Gay marriage is like any other marriage.
+Gay people should have the same rights as straight people.
+Gay parents can adopt and ensure a happy life for a baby.
+People are born gay.
+Religion should not be used against gay rights.","illegalizing the right to love someone is discriminatory due to the fact that they aren't harming anyone,
+homosexualls have the same equal rights as hetrosexualls.
+Gay couple parents without adoption rights do not benefit from the generous tax deductions granted to heterosexual parents.
+two concenting adults should be able to have the same rights as anyone else.
+The law only hurts children waiting to be adopted and deprives loving parents who would care for these children.
+People have no control over who they fall in love with, male or female.
+Every single person in this world deserves the same equal rights as the next, no exceptions
+No majority ever has the right to decide the life of a minority, which does no harm to anyone
+By denying homosexuals the right to marry, the United States in violation of the First Amendment
+Gay people pay taxes, they are entitled to the same rights
+if two regular couples can adopt a child then a gay couple should be able to.
+Marriage should be allowed regardless of the participants gender.
+No one has the right to tell others who they can and can not fall in love with.
+Marriage, unless combined with other causes, doesn't cause any considerable physical, financial, etc harm to others.
+If one parent dies, the second parent has no legal right to take custody or care for the child.
+GAYS SHOULD HAVE THE RIGHT TO ADOPT.
+Archaic laws grounded in religious dogma should not be dictating rights in a secular society.
+Marriage as we describe it now is a civil contract and not a religious one.
+Over 1500 species observed that show some kind of homosexual activity, with numerous cases of gay life bonding pairs
+children raised in gay families are completely fine.
+Homosexuality does not breed any disease or moral corruption",0.4043714106082916,0.6020236290501984,0.2,1.0,0.5095238095238095,22.76185
+0.4,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana harms the adolescent brain
+Legal cannabis makes people more likely to get their hands on it
+It is not helpful/harming your life",0.3309032022953033,0.3809760511122467,0.2,0.61,0.3333333333333333,7.011
+1.0,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana impairs cognitive functions and memory.
+Marijuana poses health risks like tobacco.
+Marijuana is a gateway drug to other substances.
+Marijuana is highly addictive, leading to dependency.
+Increased access to marijuana fuels crime rates.
+Marijuana poses serious health risks.",0.3571485579013824,0.2256009315530727,1.0,0.79,0.35,7.121
+0.8,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana has negative effects on the body.
+Marijuana impairs cognitive and motor functions.
+Marijuana is considered a gateway drug.
+Marijuana is addictive and leads to cravings.
+Legalizing marijuana poses public health risks.
+Marijuana causes significant harm compared to alcohol.
+Marijuana negatively impacts adolescent brain development.
+Legalizing marijuana increases accessibility and abuse.",0.3720633685588836,0.2426285000635545,0.8,0.8800000000000001,0.3874999999999999,3.824
+0.6,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Legalizing marijuana leads to more addicts.
+Marijuana negatively affects brain functions.
+Marijuana is harmful, not helpful.
+Marijuana is a gateway drug.
+Marijuana causes sleepiness and hunger.
+Young people are negatively affected by marijuana.",0.4145698547363281,0.2197960348089286,0.6,0.75,0.45,31.05557
+0.8,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana leads to health issues.
+Marijuana contributes to addiction and crime.
+Marijuana is a gateway drug.
+Marijuana impairs cognitive functions.
+Legalizing marijuana may increase drug abuse.
+Marijuana negatively impacts memory and motor skills.",0.4196349084377289,0.2564293911093357,0.8,0.8800000000000001,0.3666666666666667,8.85395
+0.4,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","The only negative aspect is that it may lead to a increase in drug addicts.
+Marijuana also has proven to take a permanent toll on the adolescent brain.",0.2152713239192962,0.1745081925071815,0.6,0.5900000000000001,0.0,13.63084
+0.8,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana leads to addiction and abuse.
+Marijuana can lead to long-term health issues.
+Marijuana impairs memory and motor skills.
+Legalizing marijuana may increase drug addicts.
+Legalizing marijuana may lead to increased crime.
+Marijuana serves as a gateway drug.",0.3785023093223572,0.2256288774105525,1.0,0.82,0.3833333333333333,9.08613
+0.8,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana leads to health issues and addiction.
+Legalizing marijuana may increase drug abuse.
+Marijuana is harmful to cognitive functions.
+Marijuana serves as a gateway drug.
+Legalizing marijuana could lead to public health concerns.
+Marijuana negatively impacts memory and motor skills.",0.3911024928092956,0.2486326653215418,0.6,0.89,0.3333333333333333,5.45048
+0.4,marijuana,-1,"Damages our bodies
+Responsible for brain damage
+If legalized, people will use marijuana and other drugs more
+Causes crime
+Highly addictive","Marijuana is proven to be a gateway drug into crack cocaine, heroin, opium, etc.
+Marijuana also has proven to take a permanent toll on the adolescent brain.
+when marijuana disturbs functions centered in the deep control centers, disorienting changes in the mind occur
+However, legalizing it will give too much leeway for people to get their hands on it even more.
+if we legalize pot there wil be a sharp increase in demand and consumption over a period of time
+Sexual functions can also be disturbed.
+Marijuana gives people the munchies and Americans are already fat, they don't need to get fatter.",0.3380387425422668,0.202656608818145,0.6,0.6900000000000001,0.4,10.51625
+0.5,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Marijuana is safe/healthy/pain-relief
+Legalizing marijuana will reduce black-market/criminal activity
+It makes you happy
+It should be legalized
+The war on drugs is expensive
+The sale of marijuana is financially beneficial
+People should choose for themselves whether they like it or not
+People should decide for themselves whether they harm themselves
+A mandatory sentence harms the lives of many young people
+Restrictions on drug use can be used to focus on more serious crimes
+There have been zero cases of marijuana overdose
+Legalizing drugs will make the drug cartels more powerful
+It would be better for the economy
+Legalization will increase demand for vaporizers
+Alcohol purchase is going to black-market/thugs
+The government should not be able to control your life
+Legalizing marijuana will cause a significant increase in marijuana use
+Legalizing marijuana will allow to regulate the industry",0.3968864381313324,0.4302401434089002,0.6,0.9,0.5055555555555555,34.006
+0.6,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Marijuana is relatively harmless and beneficial.
+End mandatory sentencing for marijuana to save lives.
+Legalizing marijuana would greatly benefit the economy.
+Legalizing marijuana would alleviate prison overcrowding.
+Marijuana legalization enables taxation and regulation.
+Legalizing marijuana would cripple drug cartels economically.
+Personal drug use should not be criminalized.
+Marijuana has medicinal benefits.
+Personal choice should determine marijuana use.
+Legalizing marijuana lowers prices and stimulates economy.
+Zero deaths from marijuana use.
+Marijuana has versatile uses beyond recreational consumption.
+Legalizing marijuana reduces schedule 1 drug issues.
+Marijuana enhances creativity and concentration.
+Marijuana is not addictive like cigarettes or alcohol.
+Legalize marijuana, regulate like alcohol for safety.
+Marijuana should be decriminalized.
+Weed should be legalized like alcohol.
+Prohibition promotes more dangerous substances.
+Marijuana is safer than alcohol and tobacco.
+Frees up police to focus on serious crimes.
+Marijuana does not kill brain cells.",0.4692400097846985,0.3340162531679023,0.8,1.0,0.5545454545454545,17.539
+0.6,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Marijuana is safer than alcohol and tobacco.
+Marijuana should be decriminalized or legalized.
+Marijuana should be legal like alcohol.
+Legalizing marijuana reduces drug-related issues.
+Marijuana is not as addictive as alcohol or cigarettes.
+Legalizing marijuana benefits the economy.
+Legalizing marijuana ends destructive mandatory sentencing.
+Marijuana has various industrial uses.
+Marijuana is less harmful than alcohol and tobacco.
+Individual freedom supports marijuana legalization.
+Marijuana has medicinal benefits.
+Personal use of marijuana should be allowed.
+The war on drugs is costly and ineffective.
+Legalization of marijuana improves regulation and taxation.
+Marijuana has positive effects on creativity and relaxation.
+Legalizing drugs enhances security and reduces crime.
+Marijuana should be regulated like alcohol.
+Legalizing marijuana reduces prison overcrowding.
+Prohibition allows more dangerous substances.
+Marijuana has brain and health benefits.
+No deaths from marijuana overdose.
+Respect individual choice regarding marijuana use.
+Legalizing marijuana frees up law enforcement resources.",0.4807869791984558,0.3297100383707338,0.8,1.0,0.5130434782608696,9.825
+0.6,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Tax revenue potential.
+Less harmful than alcohol.
+Medicinal benefits proven.
+ Personal freedom and choice.
+Supports economic growth and job creation.
+No reported deaths from use.
+Reduces overcrowding in prisons.
+Safer than alcohol and tobacco.
+Does not lead to violent behavior.
+ Reduces law enforcement costs.
+Low risk of addiction.
+ No significant increase in use post-legalization.",0.5409529209136963,0.2716379581781082,0.4,0.93,0.45,102.51869
+0.3,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Marijuana is less harmful than alcohol and tobacco.
+Marijuana does not cause significant negative effects.
+Legalizing marijuana would have economic benefits.
+Marijuana has medicinal benefits and is relatively safe.",0.4107868671417236,0.2614448108377912,0.4,0.79,0.25,16.6017
+0.7,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","legalization, sales, and taxation of marijuana would be hugely beneficial to the economy.
+Cannabis is not psychologically addictive and is no worse than alcohol or cigarettes.
+Smoking marijuana does not cause brain damage.
+Legalizing it would end the need for indulging in criminal behavior.
+Legalizing marijuana, could potentially lower the number of users.
+In conclusion, the legalisation of marijuana would be, ultimately, a harm reduction measure.
+Prohibition also creates a black market, that we could easily destroy via legalization
+Medically, marijuana has shown some promise in relieving pain and increasing appetite.
+marijuana ENHANCES both sides of the brain ""by stimulating the sympathetic nervous system""",0.3775653839111328,0.2909337857921796,0.6,0.92,0.3666666666666667,137.07295
+0.6,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Marijuana legalization can reduce prison overcrowding.
+Legalizing marijuana can boost the economy.
+Marijuana has not caused any deaths.
+Prohibition creates a black market for marijuana.
+Marijuana has medicinal benefits and can ease pain.
+Marijuana is less harmful than alcohol and tobacco.
+Marijuana does not lead to violent behavior.
+The war on drugs is costly and ineffective.",0.4527360498905182,0.3162014001976313,0.4,0.8800000000000001,0.3625,12.63743
+0.6,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Marijuana is safer than alcohol and tobacco.
+Legalizing marijuana can benefit the economy.
+Marijuana has medicinal benefits and is relatively safe.
+Criminalizing marijuana leads to overcrowded prisons.
+Prohibition creates a black market for marijuana.
+Marijuana does not lead to violent behavior.
+Legalizing marijuana can reduce law enforcement costs.
+Marijuana has not caused any documented deaths.",0.4479381442070007,0.3035286395705689,0.4,0.91,0.4375,8.83276
+0.7,marijuana,1,"Not addictive
+Used as a medicine for its positive effects
+Legalized marijuana can be controlled and regulated by the government
+Prohibition violates human rights
+Does not cause any damage to our bodies","Medically, marijuana has shown some promise in relieving pain and increasing appetite.
+For twenty-five years, researchers have searched for a marijuana-induced amotivational syndrome and have failed to find it.
+Cannabis has been proven to have health benefits .
+Marijuana is no more harmful than tobacco or alcohol, if taken in moderate quantities.
+Sustained alcohol abuse actually kills brain cells.
+A study at the University of Saskatchewan in Canada proves that marijuana actually stimulates brain cell growth
+Legalizing it would end the need for indulging in criminal behavior.
+Consumer dollars can stimulate the economy better if they aren’t depleted by prohibition’s black market.
+legalization, sales, and taxation of marijuana would be hugely beneficial to the economy.
+In conclusion, the legalisation of marijuana would be, ultimately, a harm reduction measure.
+Marijuana is safer than some other legal substances, so you can't ban it for that reason.
+Studies have shown that marijuana increases concentration and creativity, probably because it stimulates both sides of the brain.
+Especially when alcohol is the stuff that actually makes people aggressive and ruins families and can lead to abuse.
+denying people the right to a trustworthy and accountable Cannabis industry is authoritarian at best.
+marijuana ENHANCES both sides of the brain ""by stimulating the sympathetic nervous system""
+If it was legal the government could regulate it and it could be dispensed safely.",0.2952895164489746,0.2710885953408706,0.6,0.8800000000000001,0.4375,23.8289
+0.5,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama is not a good president
+Obama has not done anything to fix the economy
+Obama's stimulus package creates jobs
+The war is a mess in Afghanistan
+He has a bad policy on terror
+The national debt is spiraling out of control
+ObamaCare is a fiasco
+Obama's war with Libya is damaging his standing in Africa",0.4805018603801727,0.4223503301378435,0.375,0.56875,0.3125,45.882
+0.1875,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama's policies have worsened the economy.
+Obama lacks economic and common sense.
+Obama's socialist ideals are concerning to many.
+Obama not responsible for key actions.
+Obama is an unfit and dishonest president.",0.4522667825222015,0.2266834179009509,0.125,0.65,0.4,4.214
+0.5,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama worsened the economy with excessive spending.
+Obama neglects Americans' needs and pushes unwanted policies.
+Opposition to government intervention in various sectors.
+Criticism of Obama's socialist tendencies and policies.
+Obama's policies are ineffective and poorly conceived.
+Obama is viewed as a dishonest and unfit leader.
+Obama lacks economic understanding and common sense.
+Disappointment with Obama's handling of wars and promises.
+Doubts about Obama's accomplishments and decisions.",0.4131014943122864,0.2397020359442365,0.25,0.725,0.4555555555555555,3.893
+0.25,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama failed to improve the economy.
+Obama increased national debt significantly.
+Obama implemented unpopular healthcare reform.
+Obama's bipartisan efforts were ineffective.
+Obama's policies are considered socialist.
+Obama's academic records remain undisclosed.",0.4685325622558594,0.2277526438048741,0.125,0.6125,0.3333333333333333,25.76604
+0.5,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama's spending is unsustainable and ineffective.
+Obama's economic policies have worsened the economy.
+Obama's healthcare policies are unpopular and costly.
+Obama lacks leadership and bipartisanship skills.
+Obama's foreign policies are controversial and damaging.
+Obama is perceived as dishonest and unfit to lead.",0.414534330368042,0.2363543332591204,0.125,0.675,0.1833333333333332,9.97053
+0.0,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama is not a good president.
+No, his policies are crap.
+Obama doesn't care about U.S. citizens at all",0.4854443669319153,0.2216416896954546,0.0,0.39375,0.3333333333333333,25.91233
+0.375,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama's policies harm the economy and citizens.
+Obama's policies are seen as socialist and harmful.
+Obama's actions have increased national debt.
+Obama is criticized for lack of leadership.
+Obama's healthcare plan is unpopular and flawed.
+Obama failed to create significant positive change.",0.4268352091312408,0.2356379221486287,0.125,0.63125,0.35,8.40343
+0.25,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","Obama's policies are ineffective and detrimental.
+Obama's spending habits are irresponsible and damaging.
+Obama lacks leadership and economic understanding.",0.371231198310852,0.2162621623910206,0.125,0.55,0.0,4.36835
+0.375,obama,-1,"Destroyed our economy
+Wars are still on
+Unemployment rate is high
+Healthcare bill is a failure
+Poor decision-maker
+We have better republicans than Obama
+Not eligible as a leader
+Ineffective foreign policies","President Obama doesn't have the first clue to economics nor do his economist advisers.
+America needs to stop the hair of the dog spending and consumerism, and start savings and investing.
+And obama lost 4 million jobs.
+Obama doesn't care about U.S. citizens at all
+However, Obama is not eliminating subsidies, as Ron Paul or Gary Johnson would.
+1.Funds for high-speed, broadband Internet access to K-12 schools   Not government's job.
+has a poor policy on terror.
+However, some of his slogans and policies worry me.",0.4420958757400512,0.2286227332675359,0.0,0.475,0.3625,8.19758
+0.6875,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Restrictions on taxes on those with fewer than 100 dollars saved the economy
+Restrictions on health care will be given to those killed by Obama
+Obama will create affordable health care
+Immigration. Terrorism.
+The economy is improving
+Purchased fuel-efficient vehicles for the federal government
+Obama is doing a better job
+Obama is better than George Bush (Jr)
+Obamacare is beneficial for many people
+The war in Iraq is over
+Obama will win in 2012
+Rejecting DADT would close offshore tax havens",0.5187777280807495,0.2877176635700047,0.25,0.525,0.5083333333333333,24.496
+0.25,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Obama stabilized and grew the economy effectively.
+Obama has significantly weakened Al Qaeda leadership.
+Obama cut taxes for 95% of Americans.
+Closed offshore tax havens, accessed records of evaders.
+Reformed taxes and healthcare, repealed DADT.
+Obama is a great president.
+Financial reform under Obama helps prevent future bailouts.
+Obama expanded access to affordable healthcare.
+Obama is the logical choice for president.
+Obama strengthened economy, fought terrorism, managed foreign policy.
+Focus on middle class and real issues.
+Obama ends US troops presence in Iraq.",0.4668077528476715,0.1833007680612684,0.25,0.73125,0.4833333333333333,10.24
+0.5,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Obama has significantly weakened Al Qaeda.
+Obama is considered a successful president.
+Obama focuses on middle-class issues.
+Obama's policies stabilized the economy.
+Economy, Terrorism, Foreign Policy, Immigration.
+Obama's healthcare reforms benefit the population.
+Obama initiated the withdrawal of troops from Iraq.
+Obama is preferred over Republican alternatives.
+Obama's popularity and performance ensure reelection.
+Obama's policies led to job growth and education investment.
+Obama deserves more time to address inherited challenges.
+Obama made significant policy changes like repealing DADT.
+Obama's tax policies prioritize the middle class.",0.471373438835144,0.2225852273075038,0.375,0.8125,0.5307692307692308,4.507
+0.375,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Obama created jobs and reduced unemployment rates.
+Obama's bailouts were necessary for economy.
+Obama provided affordable healthcare for all.
+Obama cut taxes for 95% of Americans.
+Obama reduced troops in Iraq and Afghanistan.
+Obama supported stem-cell and biomedical research.
+Obama pushed for financial system reforms.
+Obama engaged in diplomatic negotiations successfully.",0.3729082942008972,0.1737496636613326,0.25,0.75,0.3249999999999999,41.20902
+0.375,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Obama improved economy through stimulus and bailouts.
+Obama focused on middle class and small businesses.
+Obama passed healthcare and financial reforms successfully.
+Obama reduced unemployment and created jobs effectively.",0.2842672169208526,0.1870508320287773,0.25,0.73125,0.25,8.75161
+0.125,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Due to the stimulus package, the economy is improving.
+Provided tax credit to workers thus  cutting taxes  for 95% of America's working families",0.3261781334877014,0.1385796614655843,0.25,0.45,0.0999999999999999,26.17292
+0.25,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Healthcare reform benefits all, including poor
+Tax cuts for 95% of Americans
+Financial reform under Obama
+Stimulus package improved economy
+Saved auto industry from collapse
+Withdrawal of US troops from Iraq
+Killed top Al Qaeda leaders",0.2966276407241821,0.2320949536194302,0.25,0.53125,0.3428571428571428,9.41816
+0.5,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Obama improved the economy through stimulus packages.
+Implemented policies benefiting working families and small businesses.
+Saved the auto industry from collapse.
+Successfully executed foreign policy initiatives and ended wars.
+Passed healthcare reform to provide access to all.
+Demonstrated integrity and commitment in fulfilling promises.
+Overcame Republican obstructionism to achieve goals.
+Maintained job growth and invested in education.",0.4315074682235718,0.2649968502658773,0.375,0.74375,0.3125,6.23143
+0.25,obama,1,"Fixed the economy
+Ending the wars
+Better than the republican candidates
+Makes good decisions/policies
+Has qualities of a good leader
+Ensured better healthcare
+Executed effective foreign policies
+Created more jobs","Obama and the Democrats are pushing through financial reform which would help avoid future bailouts.
+Obama's policies reflect what more people want and is the only logical choice for the next presidentail term.
+Due to the stimulus package, the economy is improving.
+Unemployment (U3 and U6 proportionally) are down 1.3% in the past 13 months alone.
+Obama is a great president despite the negative criticisms.
+The bailouts were a necessary evil.
+Osama Bin Laden and 21 other Al Queda heads (out of 30) killed under Obama.
+Visited more countries and met with more world leaders than any president in his first six months in   office
+Obama's tried to increase tax on the upper classes, and the corporations, and been blocked by Republicans.
+Issued an Executive Order repealing the Bush-Era restrictions on embryonic stem cell research
+Ordered secret detention facilities in Eastern Europe and elsewhere to be closed
+helped keep the economy from crashing
+Supported the first steps of a legally-binding treaty to reduce mercury emissions worldwide
+Provided tax credit to workers thus  cutting taxes  for 95% of America's working families
+Provided affordable, high-quality child care to working families
+Obama was elected because he had a better message, and the last republican president sucked.",0.3443569242954254,0.2917015007325482,0.25,0.85,0.43125,12.68295

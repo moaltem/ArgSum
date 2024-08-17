@@ -1,0 +1,23 @@
+p-normal
+Gay marriage is like any other marriage.
+p-right_denied
+Gay people should have the same rights as straight people.
+p-no_threat_for_child
+Gay parents can adopt and ensure a happy life for a baby.
+p-born
+People are born gay.
+p-religion
+Religion should not be used against gay rights.
+p-Other
+Others
+
+c-religion
+Religion does not permit gay marriages.
+c-abnormal
+Gay marriages are not normal/against nature.
+c-threat_to_child
+Gay parents can not raise kids properly.
+c-gay_problems
+Gay people have problems and create social issues.
+c-Other
+Others

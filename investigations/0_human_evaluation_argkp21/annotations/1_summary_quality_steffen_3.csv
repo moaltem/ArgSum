@@ -1,0 +1,1345 @@
+topic,stance,reference,prediction,n_covered,n_unique,coverage,redundancy,file_name
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Forcing people to have their children vaccinated goes against free will.
+2: When vaccines are mandatory, they can infringe on family religious choices
+3: parents should have the freedom to decide what they consider best for their children
+4: Routine child vaccinations should not be mandatory because children may not bear the side effects of it.
+5: Child vaccination isn't necessary and may result in other diseases for children
+6: The child population has a low degree of vulnerability, so vaccination is not urgent yet
+7: A vaccine that has not been sufficiently tested and without knowledge of side effects is not recommended for children
+8: child vaccinations shouldn't be mandatory because the vaccine can have side effects on children
+9: Child vaccination should not be mandatory as there are often side effects from them
+10: on the other hand there may be deadly side effects
+11: Vaccines in children should not be mandatory because they can have consequences for their health in the future
+12: kids could get side effects from it and hurt themselves
+13: vaccination of children should be limited as it affects child development
+14: The vaccine could make your child sick and contain toxic substances.
+15: Vaccines can cause autism and poisoning
+16: Vaccines contain heavy metals, they are toxic to children.
+17: childhood vaccination should not be mandatory because it can cause autism
+18: on the other hand there may be deadly side effects for children
+19: vaccination should exclude children to avoid the side effects that can appear on them.
+20: childcare is the responsibility of the parents and is a matter of conscience
+21: Parents should decide what is best for their child.",4.0,1.5,1.0,0.9285714285714286,match_smatchtopr_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Mandatory vaccinations violate personal freedom.
+2: Children's low vulnerability makes vaccination unnecessary.
+3: Vaccines may have harmful side effects.
+4: Parents should decide on child vaccinations.",3.5,3.5,0.875,0.125,sep_gold_clusters_mc_argsum_global_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Mandatory vaccinations infringe on personal freedom.
+2: Children don't catch the virus.
+3: Child vaccinations may have harmful side effects.
+4: Parental choice over child vaccinations should remain.",3.5,3.5,0.875,0.125,sep_gold_clusters_mc_argsum_local_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Forcing child vaccinations infringes on free will.
+2: Some religions prohibit mandatory child vaccinations.
+3: Children are less vulnerable, so vaccinations unnecessary.
+4: Child vaccinations should not be mandatory due to potential harmful side effects.",3.0,4.0,0.75,0.0,match_mc_argsum_deberta_global_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Vaccinations infringe on free will and personal beliefs.
+2: Mandatory vaccines conflict with religious freedoms.
+3: Parents should have the right to decide.
+4: Children may suffer harmful side effects.
+5: Concerns about vaccine safety and side effects.
+6: Vaccines can have long-term consequences.
+7: Mandatory vaccinations violate parental rights.",2.5,4.5,0.625,0.3571428571428571,match_barh_key_points_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Parental choice should dictate child vaccinations.
+2: Religious beliefs oppose mandatory childhood vaccinations.
+3: Child vaccination is a personal choice.
+4: Child vaccinations may have harmful side effects.
+5: Child vaccinations pose health risks to children.",2.0,3.0,0.5,0.4,match_mc_argsum_deberta_local_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Parental choice overrides mandatory child vaccinations.
+2: Respect individual's freedom of choice on vaccinations.
+3: Child vaccination should not be mandatory.
+4: Child vaccinations can have harmful side effects.",2.0,2.0,0.5,0.5,match_mc_argsum_sbert_local_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Vaccinations infringe on free will and personal choice.
+2: Mandatory vaccinations conflict with religious beliefs.
+3: Parents should have the right to decide.
+4: Concerns over vaccine safety and side effects.",2.0,3.0,0.5,0.25,sep_barh_key_points_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Forcing people to have their children vaccinated goes against free will.
+2: When vaccines are mandatory, they can infringe on family religious choices
+3: parents should have the freedom to decide what they consider best for their children
+4: Child vaccination should not be mandatory as there are often side effects from them
+5: Child vaccination isn't necessary and may result in other diseases for children",4.0,4.5,1.0,0.0999999999999999,match_barh_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Mandatory vaccination violates individual freedom of choice.
+2: Mandatory vaccinations violate religious freedom.
+3: Child vaccination can have harmful side effects.
+4: Children have low vulnerability to diseases.",2.0,3.5,0.5,0.125,sep_mc_argsum_sbert_local_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: free will
+2: catch the disease
+3: side effects
+4: parent",2.5,2.5,0.625,0.375,sep_gold_clusters_summetix_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: parents should have the freedom to decide what they consider best for their children
+2: vaccination should exclude children to avoid the side effects that can appear on them.",2.5,2.0,0.625,0.0,sep_smatchtopr_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Mandatory child vaccinations violate parental free will.
+2: Religious beliefs oppose mandatory child vaccinations.
+3: Children don't catch the virus.
+4: Child vaccinations should not be mandatory due to potential harmful side effects.",2.5,4.0,0.625,0.0,sep_mc_argsum_deberta_local_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Parental choice trumps mandatory child vaccinations.
+2: Religious beliefs oppose mandatory child vaccinations.
+3: Child vaccinations should not be mandatory due to potential side effects.
+4: Children not catching virus opposes mandatory vaccination.",2.5,4.0,0.625,0.0,sep_mc_argsum_sbert_global_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Vaccinations violate free will and personal choice.
+2: Mandatory vaccines conflict with religious beliefs.
+3: Parents should have the right to decide.
+4: Children may suffer harmful effects from vaccines.
+5: Concerns about vaccine safety and side effects.",3.0,4.0,0.75,0.1999999999999999,sep_smatchtopr_key_points_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: There should be no obligation to have your child vaccinated
+2: It is not mandatory since it can harm the child's decision-making
+3: Parents should be permitted to choose what is best for their children
+4: Child vaccinations should not be mandatory since they can cause harm to the child
+5: There may be side effects in the child population
+6: Parents should choose for their children",3.0,3.0,0.75,0.5,sep_uskpm_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Parents should decide on child vaccinations.
+2: Vaccination conflicts with some religious beliefs.
+3: Children's low vulnerability makes vaccination unnecessary.
+4: Concerns about vaccine side effects on children.",2.5,4.0,0.625,0.0,sep_mc_argsum_deberta_global_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Vaccinations violate free will and personal choice.
+2: Mandatory vaccines conflict with religious beliefs.
+3: Parents should have the right to decide.
+4: Children may suffer harmful effects from vaccines.
+5: Concerns about vaccine safety and side effects.",3.0,4.0,0.75,0.1999999999999999,match_smatchtopr_key_points_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Vaccination is not mandatory because everyone should choose for themselves whether to be vaccinated
+2: Child vaccination should not be mandatory since they cannot catch the virus
+3: Child vaccination should be avoided as long as it is not harmful for children
+4: Parents should be permitted to choose whether to vaccinate their children",2.5,4.0,0.625,0.0,sep_gold_clusters_uskpm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Vaccination
+2: mandatory
+3: side effects
+4: parent",2.0,3.0,0.5,0.25,match_summetix_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Parental choice trumps mandatory child vaccinations.
+2: Religious beliefs oppose mandatory child vaccinations.
+3: Child vaccination should not be mandatory due to potential side effects.",2.0,3.0,0.5,0.0,match_mc_argsum_sbert_global_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Forcing people to have their children vaccinated goes against free will.
+2: parents should have the freedom to decide what they consider best for their children
+3: Child vaccination should not be mandatory as there are often side effects from them",2.5,2.5,0.625,0.1666666666666666,sep_barh_bm_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: parent
+2: religion
+3: mandatory
+4: side effects",1.5,2.5,0.375,0.375,sep_summetix_it_0.csv
+Routine child vaccinations should be mandatory,-1,"1: Mandatory vaccination contradicts basic rights
+2: Routine child vaccinations are not necessary to keep children healthy
+3: Routine child vaccinations, or their side effects, are dangerous
+4: The parents and not the state should decide","1: Child vaccination should not be mandatory since many children cannot be vaccinated due to religious reasons
+2: It should be mandatory because it is someone's choice
+3: Child care should be provided by the parents
+4: Immunization should not be mandatory since they can cause harm to the child
+5: Routine child vaccinations should not be mandatory as they can cause harm to the child
+6: A vaccine that is not adequately tested and unsafe for children should be given
+7: There is currently no guarantee of the side effects of vaccines
+8: Child health may be at risk/harming your child
+9: Parents should choose for their children
+10: Parents should be permitted to choose whether or not to vaccinate their children",2.5,3.0,0.625,0.7,match_uskpm_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Every child has to be vaccinated to prevent deadly illnesses.
+2: Infant vaccination should be mandatory so we avoid infant mortality
+3: The use of child vaccines saves lives
+4: Vaccines help children grow up healthy and avoid dangerous diseases
+5: Vaccination should be a health policy to reduce infant mortality.
+6: Vaccines save up to 3 million lives a year, protecting children from life-threatening and highly infectious diseases.
+7: Routine infallible vaccinations are mandatory, that way we avoid the spread and make our children immune from any disease.
+8: vaccines must be compulsory for children because in this way we prevent later diseases in infants
+9: Childhood vaccination should be mandatory since there are diseases that attack from childhood.
+10: Vaccination should be a health policy to reduce diseases in infants.
+11: Vaccines should be a mandatory policy so that children do not suffer from these covid problems
+12: Vaccinations should be mandatory in children to prevent them from spreading disease to other children
+13: Routine child vaccination is essential to ensure that the population are protected from transmittable diseases
+14: Vaccinations are necessary to protect the health of the public as a whole and should be required by law.
+15: child vaccinations should be mandatory to provide decent health care to all.
+16: to keep schools safe children must be vaccinated
+17: Routine childhood vaccinations  should be mandatory for virus prevention
+18: Child vaccination should be mandatory to avoid transferring the disease
+19: Child vaccination should be mandatory to prevent children from spreading the virus
+20: in this way, pandemic outbreaks are avoided
+21: Routine child vaccinations should be mandatory since they can spread the virus
+22: Routine child vaccinations should be mandatory to prevent the virus from developing itself.
+23: To avoid spreading diseases in schools and day care centers, all children must be vaccinated.
+24: taking into account that the virus is very contagious, it should be mandatory to avoid future mutations",4.0,4.0,0.8,0.8333333333333334,match_smatchtopr_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Child vaccinations save millions of lives.
+2: Mandatory child vaccination prevents future diseases.
+3: Education on vaccine safety and effectiveness.
+4: Mandatory vaccinations protect public health.
+5: Routine vaccinations prevent virus spread.",3.5,3.5,0.7,0.3,sep_gold_clusters_mc_argsum_global_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Child vaccinations save millions of lives annually.
+2: Routine child vaccinations prevent lethal diseases.
+3: Vaccines are safe and effective.
+4: Routine child vaccinations ensure public health safety.
+5: Child vaccinations prevent virus spread effectively.",5.0,5.0,1.0,0.0,sep_gold_clusters_mc_argsum_local_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Child vaccinations save lives and prevent illnesses.
+2: Vaccines save lives by preventing numerous diseases.
+3: Child vaccination should be mandatory to prevent the spread of diseases.
+4: Routine child vaccinations should be mandatory for healthy growth.",3.0,4.0,0.6,0.0,match_mc_argsum_deberta_global_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Mandatory vaccines prevent deadly diseases.
+2: Child vaccinations save millions of lives.
+3: Vaccines ensure global public health.
+4: Vaccinating children helps eradicate diseases.
+5: Vaccinations protect children from contagious diseases.
+6: Mandatory vaccines are crucial for preventing pandemics.",4.0,5.0,0.8,0.1666666666666666,match_barh_key_points_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Child vaccinations save millions of lives.
+2: Child vaccination should prevent the spread of diseases.",2.0,2.0,0.4,0.0,match_mc_argsum_deberta_local_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Routine child vaccinations save lives and prevent diseases.
+2: Child vaccines save lives, reducing mortality rates.",2.0,1.0,0.4,0.5,match_mc_argsum_sbert_local_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Mandatory vaccines prevent deadly diseases.
+2: Child vaccinations save millions of lives.
+3: Vaccines ensure global public health.
+4: Vaccinating children helps eradicate diseases.
+5: Vaccinations protect children from contagious diseases.
+6: Mandatory vaccines are crucial for preventing pandemics.",4.0,4.5,0.8,0.25,sep_barh_key_points_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Routine child vaccination is essential to ensure that the population are protected from transmittable diseases
+2: The use of child vaccines saves lives
+3: vaccination in the child population due to the lethality of the new strains is essential",2.5,2.5,0.5,0.1666666666666666,match_barh_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Vaccines save lives and prevent diseases effectively.
+2: Child vaccines save lives.
+3: Child vaccinations prevent spread of lethal diseases.",2.5,2.5,0.5,0.1666666666666666,sep_mc_argsum_sbert_local_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: lives
+2: disease
+3: effectiveness
+4: health
+5: mandatory",2.5,2.5,0.5,0.5,sep_gold_clusters_summetix_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Vaccines save up to 3 million lives a year, protecting children from life-threatening and highly infectious diseases.
+2: Routine child vaccination is essential to ensure that the population are protected from transmittable diseases
+3: child vaccinations should be mandatory to provide decent health care to all.",3.0,3.0,0.6,0.0,sep_smatchtopr_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Child vaccinations save lives and are essential.
+2: Vaccines save lives by preventing diseases.
+3: Child vaccination prevents spread of contagious diseases.
+4: Routine child vaccinations prevent childhood diseases effectively.",3.0,2.5,0.6,0.375,sep_mc_argsum_deberta_local_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Child vaccinations save lives and prevent diseases.
+2: Child vaccinations save lives, should be mandatory.
+3: Child vaccinations prevent spread of lethal diseases.",2.0,2.0,0.4,0.3333333333333333,sep_mc_argsum_sbert_global_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Mandatory vaccines prevent deadly diseases.
+2: Child vaccinations save millions of lives.
+3: Vaccines are crucial for public health.
+4: Child vaccinations prevent virus transmission.
+5: Vaccinations ensure population protection from diseases.
+6: Mandatory vaccines are essential for immunity.",5.0,5.5,1.0,0.0833333333333333,sep_smatchtopr_key_points_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Vaccinations should be mandatory in all children to prevent diseases
+2: Requirements for vaccination should be made for the health of the child
+3: The use of vaccines prevents diseases
+4: Child health is important to prevent diseases
+5: Child vaccination is essential to prevent diseases
+6: Routine child vaccinations should be mandatory to prevent the spread of the virus",2.0,2.5,0.4,0.5833333333333333,sep_uskpm_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Mandatory child vaccinations save children's lives.
+2: Vaccines save lives by preventing diseases
+3: Child vaccination should be mandatory to prevent the spread of diseases.
+4: Mandatory childhood vaccines prevent future diseases.",3.0,2.5,0.6,0.375,sep_mc_argsum_deberta_global_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Mandatory vaccines prevent deadly diseases.
+2: Child vaccinations save millions of lives.
+3: Vaccines are crucial for public health.
+4: Child vaccinations prevent virus transmission.
+5: Vaccinations ensure population protection from diseases.
+6: Mandatory vaccines are essential for immunity.",4.0,4.0,0.8,0.3333333333333333,match_smatchtopr_key_points_bleurt_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Vaccines prevent diseases in the child
+2: Restrictions on vaccines should be placed on children to prevent diseases
+3: Children should be vaccinated regularly
+4: Immunization is necessary to protect the health of the entire population
+5: Child vaccination should be mandatory to prevent diseases",3.0,3.5,0.6,0.3,sep_gold_clusters_uskpm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: diseases
+2: mandatory
+3: avoid the spread",1.5,1.5,0.3,0.5,match_summetix_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Vaccines save lives and prevent diseases effectively.
+2: Child vaccinations prevent infant mortality.
+3: Child vaccinations prevent contagious diseases effectively.",3.0,2.5,0.6,0.1666666666666666,match_mc_argsum_sbert_global_bleurt_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Routine child vaccination is essential to ensure that the population are protected from transmittable diseases
+2: The use of child vaccines saves lives
+3: vaccination in the child population due to the lethality of the new strains is essential",2.0,2.5,0.4,0.1666666666666666,sep_barh_bm_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: mandatory
+2: health
+3: diseases",1.5,1.5,0.3,0.5,sep_summetix_it_0.csv
+Routine child vaccinations should be mandatory,1,"1: Child vaccination saves lives
+2: Children should not suffer from preventable diseases
+3: Routine child vaccinations are effective
+4: Routine child vaccinations are necessary to protect others
+5: Routine child vaccinations should be mandatory to prevent virus/disease spreading","1: Vaccination is necessary to prevent diseases in the child
+2: The use of vaccines prevents diseases
+3: Child health is important to prevent diseases
+4: Childhood vaccination is essential to prevent future diseases
+5: Child vaccination should be mandatory to prevent the spread of the virus
+6: Routine immunization is essential to prevent diseases",2.0,2.5,0.4,0.5833333333333333,match_uskpm_bleurt_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: the government is corrupt and could take advantage of this
+2: social media should not be governed by certain government regulations as this would violate the privacy of users
+3: Social media is a place for free speech and therefore should not be regulated by the government.
+4: Government regulation of social media would be harmful to democracy
+5: social networks are a means of communication and totally free expression, it should not be regulated
+6: Social media platforms should not be regulated by the government as a lot of people would feel restricted.
+7: social networks have personal information which should not be controlled by the government",3.0,5.0,0.6,0.2857142857142857,match_smatchtopr_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government regulation could be abused for personal gain
+2: Regulation hinders freedom of expression on social media.
+3: Regulation invades privacy on social media
+4: Government cannot effectively regulate all social media.
+5: Social media companies should not be government-regulated",3.5,4.5,0.7,0.0999999999999999,sep_gold_clusters_mc_argsum_global_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government could exploit social media regulation.
+2: Government regulation inhibits freedom of speech.
+3: Government regulation invades privacy on social media.
+4: Government can't regulate all social media content.
+5: Private companies should self-regulate, not government.",5.0,5.0,1.0,0.0,sep_gold_clusters_mc_argsum_local_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company",1: Social media platforms should not be regulated by the government as it infringes on freedom of speech.,1.0,1.0,0.2,0.0,match_mc_argsum_deberta_global_bleurt_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government involvement risks abuse and censorship.
+2: Privacy invasion and loss of free expression feared.
+3: Government regulation hinders freedom of speech.
+4: Regulation by government threatens democracy and expression.
+5: Social media should remain free from government control.
+6: Government control could lead to authoritarianism.",3.5,4.5,0.7,0.25,match_barh_key_points_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government regulation risks abuse and manipulation.
+2: Government regulation hinders freedom of expression on social media.
+3: Social media should not be government-regulated.",2.0,2.5,0.4,0.1666666666666666,match_mc_argsum_deberta_local_bleurt_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government regulation violates privacy on social media.
+2: Government regulation restricts freedom of expression on social media.
+3: Regulating social media hinders freedom of speech.",2.0,2.0,0.4,0.3333333333333333,match_mc_argsum_sbert_local_bleurt_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Privacy invasion with government control of platforms
+2: Regulating social media undermines democracy
+3: Government regulation threatens freedom of speech",2.0,3.0,0.4,0.0,sep_barh_key_points_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: social media allows free speech without fear of the government
+2: Social media platform should not be regulated out of respect for freedom of expression
+3: Government regulation of social media would be harmful to democracy
+4: The social media platform should not be regulated by the government because it intrudes privacy",2.0,3.5,0.4,0.125,match_barh_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government may exploit regulation for own benefit.
+2: Private companies should not be regulated.
+3: Government regulation invades social media privacy.
+4: Government regulation restricts freedom of expression on social media.",3.0,4.0,0.6,0.0,sep_mc_argsum_sbert_local_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: corrupt
+2: freedom of expression
+3: privacy
+4: regulated by
+5: private companies",3.0,3.0,0.6,0.4,sep_gold_clusters_summetix_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: the government is corrupt and could take advantage of this
+2: Government regulation of social media would be harmful to democracy
+3: social networks have personal information which should not be controlled by the government",2.0,3.0,0.4,0.0,sep_smatchtopr_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government regulation risks abuse for own benefit.
+2: Government regulation restricts freedom of expression on social media.
+3: Government regulation restricts social media users' freedom.
+4: Privacy concerns outweigh government regulation on social media.
+5: Social networks are private entities, not government-regulated.",3.5,4.0,0.7,0.1999999999999999,sep_mc_argsum_deberta_local_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government regulation risks abuse for personal gain.
+2: Social media platforms are private entities.
+3: Government regulation threatens privacy on social media.
+4: Government regulation stifles freedom of expression on social media.",3.0,4.0,0.6,0.0,sep_mc_argsum_sbert_global_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Regulation could lead to government manipulation.
+2: Privacy invasion by government regulation is concerning.
+3: Government regulation hinders freedom of speech.
+4: Social media should remain free from government control.",2.5,3.0,0.5,0.25,sep_smatchtopr_key_points_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Social media platforms should not be regulated by the government since it intrudes privacy
+2: The government should not intervene in social networks
+3: It should not be taken away because it is a private place for people to express themselves
+4: Social media platforms should not be regulated because it harms freedom of expression",2.0,3.0,0.4,0.25,sep_uskpm_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government could exploit regulation for political gain.
+2: Government regulation hinders freedom of expression.
+3: Government regulation induces feelings of restriction and surveillance.
+4: Regulation invades privacy and limits expression.
+5: Social media are private entities, not state-controlled.",3.5,4.5,0.7,0.0999999999999999,sep_mc_argsum_deberta_global_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government control could lead to abuse of power.
+2: Privacy invasion by government regulation is concerning.
+3: Government regulation threatens freedom of speech.
+4: People should freely express themselves on social media.
+5: Regulating social media platforms undermines democracy.",3.0,4.0,0.6,0.1999999999999999,match_smatchtopr_key_points_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: The government could use the platform for their own benefit
+2: Social media platforms should not be regulated because it harms freedom of expression
+3: Social media platforms should not be regulated by the government because it intrudes privacy
+4: Social media platforms can't be regulated by the government because there are other platforms that it cannot control
+5: Social media companies should not be controlled by the government",2.5,4.0,0.5,0.1999999999999999,sep_gold_clusters_uskpm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: government
+2: freedom of expression",1.0,2.0,0.2,0.0,match_summetix_bleurt_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: Government regulation invades privacy and control.
+2: Government regulation restricts free expression on social media.
+3: Government regulation hinders freedom of expression on social media.",2.0,2.0,0.4,0.3333333333333333,match_mc_argsum_sbert_global_bleurt_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: social media allows free speech without fear of the government
+2: Social media platform should not be regulated out of respect for freedom of expression
+3: Government regulation of social media would be harmful to democracy
+4: The social media platform should not be regulated by the government because it intrudes privacy",2.0,3.0,0.4,0.25,sep_barh_bm_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: government
+2: regulate",0.5,0.5,0.1,0.75,sep_summetix_it_0.csv
+Social media platforms should be regulated by the government,-1,"1: Social media regulation can lead to political abuses by the government
+2: Social media regulation harm freedom of speech and other democratic rights
+3: Social media regulation harms privacy
+4: Social media regulation is not effective
+5: The government should not intervene in the affairs of a private company","1: The government is ineffective in influencing people's opinions
+2: Social media platforms should not be regulated by the government since it intrudes privacy
+3: There should be a lot of privacy on social networks
+4: Social media platforms should not be regulated since freedom of expression is violated
+5: Social media is a good medium of expression
+6: Social media platforms should not be regulated as they are a private company",3.5,4.0,0.7,0.3333333333333333,match_uskpm_bleurt_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: social media should be monitored by the government to prevent abuse
+2: social networks being monitored by the government, would cause less negative impact on society
+3: Social media platform should be regulated by the government in order to avoid the distribution of false news
+4: Social media measures can reduce the activities of malicious people who use the networks for selfish purposes.
+5: government control of social media can help reduce discrimination or other crime on social media
+6: Social media platforms should be regulated by the government to stop hate speech
+7: Social media platform must be regulated for the good of society
+8: social media must be regulated because many children view unwanted information online
+9: social platforms must be regulated by governments to avoid hate crimes as well as political disinformation
+10: Social media platforms should be regulated by the government to prevent any potential crimes
+11: Governments should avoid the proliferation of fake news and hoaxes on social networks.
+12: Regulation could prevent the spread of fake news
+13: Social media platforms should be regulated by the government to stop rumors.
+14: Social media platforms ought to be regulated by the government to stop the crimes of blackmailing.
+15: Social media platforms are used to promote terrorist activities and should be regulated by the government.
+16: social networks should be regulated because they have a lot of content that is not available to our children",5.0,10.0,1.0,0.375,match_smatchtopr_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated to control harmful content.
+2: Regulating social media enhances security for society.
+3: Regulation is needed to combat fake news.
+4: Regulation needed to prevent crimes on social media.
+5: Regulation important to protect children from harm.",4.0,4.5,0.8,0.0999999999999999,sep_gold_clusters_mc_argsum_global_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated to prevent harm.
+2: Regulating social media enhances security for all.
+3: Regulating social media can curb fake news.
+4: Government regulation can prevent various crimes online.
+5: Regulate social media to protect children from harm.",4.0,4.0,0.8,0.1999999999999999,sep_gold_clusters_mc_argsum_local_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences",1: Social media platforms should be regulated by the government to prevent harm and control negative content.,1.0,1.0,0.2,0.0,match_mc_argsum_deberta_global_bleurt_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Regulation prevents spread of harmful content.
+2: Protects society from negative influences.
+3: Regulating social media ensures safety and security.
+4: Government control stops hate speech and crimes.
+5: Necessary to combat fake news and hoaxes.
+6: Prevents online crimes and terrorist activities.",3.5,4.0,0.7,0.3333333333333333,match_barh_key_points_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated to prevent harmful content.
+2: Regulating social media prevents spread of fake news.",2.0,2.0,0.4,0.0,match_mc_argsum_deberta_local_bleurt_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated to prevent crimes.
+2: Regulating social media protects children from harm.
+3: Government regulation prevents hate crimes on social media.
+4: Regulation needed to curb fake news spread.",3.0,3.0,0.6,0.25,match_mc_argsum_sbert_local_bleurt_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Regulation prevents harm from negative content.
+2: Regulating platforms stops hate speech and crimes.
+3: Government control reduces spread of fake news.",2.0,2.5,0.4,0.1666666666666666,sep_barh_key_points_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated by the government to prevent any potential crimes
+2: Social media platform must be regulated for the good of society
+3: Regulation could prevent the spread of fake news
+4: social networks being monitored by the government, would cause less negative impact on society",2.5,3.0,0.5,0.25,match_barh_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media needs government regulation to filter harmful content.
+2: Regulating social media prevents hate crimes.
+3: Government regulation can protect children from harmful content.
+4: Regulating social media can prevent fake news.",3.0,3.5,0.6,0.125,sep_mc_argsum_sbert_local_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: regulated
+2: benefit
+3: fake news
+4: regulate
+5: available",1.0,1.5,0.2,0.7,sep_gold_clusters_summetix_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: social platforms must be regulated by governments to avoid hate crimes as well as political disinformation
+2: Social media platform should be regulated by the government in order to avoid the distribution of false news
+3: Social media platform must be regulated for the good of society
+4: social media must be regulated because many children view unwanted information online",3.5,4.0,0.7,0.0,sep_smatchtopr_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Government regulation prevents crime on social media.
+2: Social media needs government regulation to filter harmful content.
+3: Regulation can curb proliferation of fake news.",2.5,2.5,0.5,0.1666666666666666,sep_mc_argsum_deberta_local_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media needs government regulation to filter harmful content.
+2: Government regulation prevents hate crimes on social media.
+3: Government regulation protects children from harmful content.
+4: Regulation prevents spread of fake news.",3.0,3.5,0.6,0.125,sep_mc_argsum_sbert_global_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Government regulation safeguards against harmful influences.
+2: Government control reduces fake news dissemination.
+3: Regulation prevents spread of harmful content.
+4: Prevents online crimes and terrorist activities.
+5: Regulating platforms stops hate speech and crimes.
+6: Regulating social media ensures a safer environment.",2.0,4.0,0.4,0.3333333333333333,sep_smatchtopr_key_points_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated by the government to prevent blackmail/criminal activity
+2: There should be a regulated social media platform for children
+3: If it should be regulated it should be regulated
+4: Social media platforms should be regulated to prevent hate crimes
+5: There should be content regulation on social media to prevent the spread of false news",2.5,4.0,0.5,0.1999999999999999,sep_uskpm_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Government regulation prevents hate crimes on social media.
+2: Regulation needed to control harmful content on social media.
+3: Regulating social media prevents spread of fake news.",2.5,3.0,0.5,0.0,sep_mc_argsum_deberta_global_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Regulation prevents spread of harmful content.
+2: Necessary to protect society from harmful influences.
+3: Government control reduces fake news dissemination.
+4: Regulating platforms stops hate speech and crimes.",3.0,3.5,0.6,0.125,match_smatchtopr_key_points_bleurt_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated by the government to prevent harm to the people
+2: Social media platforms should be regulated for the benefit of society
+3: The information that circulates on social media should be regulated by the government
+4: Social media platforms should be regulated by the government to prevent crimes
+5: Social media is ineffective in protecting children",2.5,3.0,0.5,0.4,sep_gold_clusters_uskpm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: regulate
+2: accidents and evils
+3: regulated
+4: control",0.5,0.5,0.1,0.875,match_summetix_bleurt_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated to prevent crimes.
+2: Government regulation can protect children from harmful content.
+3: Government regulation prevents hate crimes on social media.
+4: Regulation can prevent spread of fake news.",2.0,3.0,0.4,0.25,match_mc_argsum_sbert_global_bleurt_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated by the government to prevent any potential crimes
+2: Social media platform must be regulated for the good of society
+3: Regulation could prevent the spread of fake news
+4: social networks being monitored by the government, would cause less negative impact on society",2.5,2.5,0.5,0.375,sep_barh_bm_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: regulate
+2: accidents and evils
+3: regulated
+4: control",0.5,0.5,0.1,0.875,sep_summetix_it_0.csv
+Social media platforms should be regulated by the government,1,"1: Social media regulation can help to deal with negative content
+2: Social media regulation is beneficial to society at large
+3: Social media regulation is necessary to deal with fake news
+4: Social media regulation is required to deal with malicious users
+5: Social media regulation protects the younger audiences","1: Social media platforms should be regulated by the government to prevent blackmail/criminal activity
+2: Social media platforms should be regulated to prevent hate crimes
+3: It is important to prevent crimes/harm children's minds
+4: Social media platforms should be regulated by the government
+5: Social media should be regulated by the government
+6: Social networks are often harmed by fraud/extortion
+7: There should be content regulation on social media to prevent the spread of false news",2.5,2.5,0.5,0.6428571428571428,match_uskpm_bleurt_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: The USA is a very capitalist country; it does not provide universal health care or education for its citizens.
+2: The United States  has long been a hotbed of racism against minority cultures",2.5,2.0,0.3571428571428571,0.0,match_smatchtopr_bleurt_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: The US culture promotes materialism.
+2: The USA has intense political divisions.
+3: Living costs in the USA are high.
+4: Vast gap between rich and poor in the USA.
+5: Lack of universal healthcare and education.
+6: USA faces high levels of crime.
+7: USA has significant issues with racism and discrimination.",6.0,6.5,0.8571428571428571,0.0714285714285714,sep_gold_clusters_mc_argsum_global_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: US culture promotes materialism and consumerism.
+2: USA has intense political divisions and strict government.
+3: High cost of living and healthcare in USA.
+4: High inequality levels diminish quality of life.
+5: Lack of affordable healthcare and education.
+6: High gun violence rates make USA unsafe.
+7: Racism undermines USA as good country.",6.5,7.0,0.9285714285714286,0.0,sep_gold_clusters_mc_argsum_local_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: The USA is not a good country to live in due to high crime rates, political unrest, and racial discrimination.
+2: The USA is not a good country to live in because of high costs and lack of universal healthcare.",3.5,2.0,0.5,0.0,match_mc_argsum_deberta_global_bleurt_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: USA promotes materialism and consumerism.
+2: Political system in USA is too strict.
+3: USA has significant political divisions.
+4: High cost of living and healthcare.
+5: Lack of affordable healthcare and education.
+6: USA struggles with high crime rates.
+7: Country has deep-rooted issues with racism.",5.5,6.5,0.7857142857142857,0.0714285714285714,match_barh_key_points_bleurt_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: USA fosters unbridled consumerism and strict politics.
+2: Political divisions and chaos make living difficult.
+3: US culture promotes materialism.
+4: High cost of living and healthcare in USA.
+5: Lack of universal healthcare and education.
+6: High gun violence rates make USA unsafe.
+7: Racism undermines USA as good place.",4.5,5.5,0.6428571428571429,0.2142857142857143,match_mc_argsum_deberta_local_bleurt_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: USA fosters unbridled consumerism and strict politics.
+2: US culture fosters division, materialism, and chaos.
+3: Government control limits USA's desirability to live.
+4: High cost of living and healthcare in USA.
+5: High racial discrimination undermines quality of life.
+6: High gun violence rates undermine livability.",4.0,6.0,0.5714285714285714,0.0,match_mc_argsum_sbert_local_bleurt_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: USA promotes materialism and consumerism.
+2: Political system in USA is too strict.
+3: USA has significant political divisions.
+4: High cost of living and healthcare.
+5: Lack of affordable healthcare and education.
+6: USA struggles with high crime rates.
+7: Country has deep-rooted issues with racism.",5.0,6.5,0.7142857142857143,0.0714285714285714,sep_barh_key_points_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: not because taxes are high and expensive
+2: The USA is a bad country to live in because some people are aggressive
+3: Not the best place for people of color",2.0,3.0,0.2857142857142857,0.0,match_barh_bleurt_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: US culture fosters materialism and inequality.
+2: High gun violence rates make USA unsafe.
+3: USA has intense political divisions and strict system.
+4: High cost of living and healthcare access.
+5: Lack of universal healthcare and education.",3.5,4.5,0.5,0.0999999999999999,sep_mc_argsum_sbert_local_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: consumerism
+2: attention
+3: expensive
+4: poor
+5: education
+6: crime
+7: racism",2.0,3.0,0.2857142857142857,0.5714285714285714,sep_gold_clusters_summetix_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: The USA is a very capitalist country; it does not provide universal health care or education for its citizens.
+2: The United States  has long been a hotbed of racism against minority cultures",2.0,2.0,0.2857142857142857,0.0,sep_smatchtopr_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: USA fosters unbridled consumerism and strict politics.
+2: US has intense political divisions and chaos.
+3: US culture promotes materialism and inequality.
+4: High cost of living and healthcare in USA.
+5: Lack of universal healthcare and education.
+6: High gun violence rates undermine livability.
+7: Racism undermines USA as desirable country.",4.0,6.5,0.5714285714285714,0.0714285714285714,sep_mc_argsum_deberta_local_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: US culture promotes materialism and inequality.
+2: High gun violence undermines quality of life.
+3: USA has intense political problems and divisions.
+4: High cost of living and healthcare.
+5: Lack of universal healthcare undermines livability.",2.5,4.5,0.3571428571428571,0.0999999999999999,sep_mc_argsum_sbert_global_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: Culture of materialism and consumerism.
+2: Widespread gun violence and crime.
+3: Political divisions and ineffective government.
+4: High cost of living and healthcare.
+5: Persistent racial discrimination and inequality.",4.5,5.0,0.6428571428571429,0.0,sep_smatchtopr_key_points_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: It is a strict country with unbridled consumerism
+2: The United States is not a good country to live in
+3: The USA has a lot of crime
+4: The United States has a lot of inequality
+5: There is a lot of expensive work in the US
+6: There are still racial problems in the United States",3.0,5.0,0.4285714285714285,0.1666666666666666,sep_uskpm_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: USA promotes unbridled consumerism and government control.
+2: USA's culture of war and political divisions.
+3: Materialism, vast inequality, lack of opportunities in USA.
+4: Living in the USA is expensive with high taxes.
+5: USA lacks universal healthcare and education.
+6: USA unsafe due to gun violence and crime.
+7: Racism and discrimination against minorities.",4.5,7.0,0.6428571428571429,0.0,sep_mc_argsum_deberta_global_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: Culture of consumerism and war affects quality of life
+2: Political divisions and bad leadership cause chaos
+3: High cost of living and healthcare expenses
+4: Economic inequality and lack of affordable education
+5: Gun violence and racial discrimination are prevalent",5.0,5.0,0.7142857142857143,0.0,match_smatchtopr_key_points_bleurt_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: The US culture promotes materialism
+2: The United States has an unstoppable political system
+3: The expensive health care is not well-paying
+4: There is a lot of inequality
+5: Its citizens lack quality health care
+6: There is a lot of crime in the US
+7: The US is not a good place for people of color",3.5,6.5,0.5,0.0714285714285714,sep_gold_clusters_uskpm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: free healthcare
+2: crime
+3: expensive
+4: racism",2.5,4.0,0.3571428571428571,0.0,match_summetix_bleurt_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: The USA is not a good country to live in due to high costs, political divisions, and racial issues.",2.5,1.0,0.3571428571428571,0.0,match_mc_argsum_sbert_global_bleurt_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: not because taxes are high and expensive
+2: The USA is a bad country to live in because some people are aggressive
+3: Not the best place for people of color",2.5,3.0,0.3571428571428571,0.0,sep_barh_bm_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: free healthcare
+2: crime
+3: racism
+4: expensive",2.5,4.0,0.3571428571428571,0.0,sep_summetix_it_0.csv
+The USA is a good country to live in,-1,"1: The US has a negative culture
+2: The US has a problematic/divisive political system
+3: The US has high taxation/high costs of living
+4: The US has inequality/poverty
+5: The US has unfair health and education policies
+6: The US is unsafe
+7: The US is xenophobic/racist","1: There is a lot of discrimination/harming harmony
+2: There is a lot of crime in the US
+3: The US is not a good country to live in because of racial inequalities
+4: There is a high unemployment rate",2.0,3.5,0.2857142857142857,0.125,match_uskpm_bleurt_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: The USA is a good country to live in as we have so many freedoms compared to other countries.
+2: The USA is a good country to live in because there are many opportunities
+3: The United States is a land of opportunities where we can develop in different environments
+4: The USA is a good country to live in because everyone has an equal opportunity to succeed.
+5: The USA is a good country to live in because of lots of job opportunities
+6: The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",3.0,3.5,0.4285714285714285,0.4166666666666666,match_smatchtopr_bleurt_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA is a top country due to its strong economy.
+2: USA is great due to quality healthcare and education.
+3: Diverse landscapes and people make USA appealing.
+4: USA is best for civil liberties and freedom.
+5: Multicultural society enriches living experience in USA.
+6: USA excels as a world power.
+7: USA provides abundant growth opportunities.",6.5,7.0,0.9285714285714286,0.0,sep_gold_clusters_mc_argsum_global_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA has strong economy and high living standards.
+2: Good healthcare and education in the USA.
+3: Diverse natural landscapes make USA desirable.
+4: USA offers unparalleled freedom and opportunities.
+5: Multicultural society with diverse cultures and languages.
+6: USA is a top global power to reside.
+7: USA offers abundant opportunities for success.",6.0,7.0,0.8571428571428571,0.0,sep_gold_clusters_mc_argsum_local_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: The USA has a stable economy
+2: The US boasts a top-tier economy.
+3: The USA is a global economic powerhouse.
+4: The USA excels in healthcare, education, and diversity.
+5: The USA is a good country due to civil liberties.
+6: The USA offers equal opportunities for success
+7: The US is the best country to live.",3.5,4.5,0.5,0.3571428571428571,match_mc_argsum_deberta_global_bleurt_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA has strong economy, job opportunities.
+2: USA offers high quality of life.
+3: USA is a land of opportunities.
+4: USA provides freedom and civil liberties.",3.0,3.5,0.4285714285714285,0.125,match_barh_key_points_bleurt_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA is desirable due to stable economy.
+2: Strong economy and healthcare make USA desirable.
+3: USA offers abundant opportunities and prosperity.
+4: High quality of life in the USA.
+5: The USA offers unparalleled freedom and democracy.
+6: USA offers unparalleled opportunities and prosperity.
+7: USA offers abundant opportunities for success.",3.5,4.5,0.5,0.3571428571428571,match_mc_argsum_deberta_local_bleurt_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: High standard of living and stable economy.
+2: USA provides diverse opportunities for success.
+3: The USA offers unparalleled freedom and democracy.
+4: Good job opportunities and economic stability prevail.
+5: USA is top country due to power.",4.0,4.0,0.5714285714285714,0.1999999999999999,match_mc_argsum_sbert_local_bleurt_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA has strong economy, job opportunities.
+2: USA offers high quality of life.
+3: USA is a land of opportunities.
+4: USA provides freedom and civil liberties.",4.0,3.5,0.5714285714285714,0.125,sep_barh_key_points_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: Yes, they have a stable economy and for that reason life is easier
+2: In my personal opinion, in a country with great opportunities.
+3: The USA is a good country to live in because the freedom
+4: yes is the best country to live  to live the  americam dream
+5: if it is a country with good salaries
+6: The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",4.0,5.5,0.5714285714285714,0.0833333333333333,match_barh_bleurt_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA offers high standard of living.
+2: USA offers abundant opportunities for success.
+3: USA offers unparalleled freedom and opportunity.
+4: Diverse natural landscapes make USA great country.",4.0,4.0,0.5714285714285714,0.0,sep_mc_argsum_sbert_local_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: economy
+2: good country
+3: abundance
+4: freedom
+5: live
+6: world power
+7: opportunities",3.5,3.5,0.5,0.5,sep_gold_clusters_summetix_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: The USA is a good country to live in as we have so many freedoms compared to other countries.
+2: The United States is a land of opportunities where we can develop in different environments
+3: The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",3.0,3.0,0.4285714285714285,0.0,sep_smatchtopr_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA offers high quality of life with stable economy.
+2: USA offers high living standards and diversity.
+3: The USA offers unparalleled freedom and rights.
+4: USA offers abundant opportunities for success.",3.0,3.5,0.4285714285714285,0.125,sep_mc_argsum_deberta_local_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA offers high standard of living.
+2: USA offers diverse opportunities for success.
+3: The USA offers unparalleled freedom and rights.
+4: USA offers diverse natural landscapes and multicultural society.",4.0,4.0,0.5714285714285714,0.0,sep_mc_argsum_sbert_global_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: Strong economy, high standard of living.
+2: Abundance of opportunities for success.
+3: Diverse culture and natural landscapes.
+4: Emphasis on freedom and civil liberties.",4.0,4.0,0.5714285714285714,0.0,sep_smatchtopr_key_points_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: The United States is a good country to live in because of its high quality of life
+2: It is a good country to live in because of its economic and political stability
+3: The United States is a country of opportunities
+4: The United States is a good country to live in because it is synonymous with freedom
+5: The US is a good country to live in",3.0,4.0,0.4285714285714285,0.1999999999999999,sep_uskpm_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA is a top country due to its strong economy
+2: USA excels as a world power.
+3: The USA excels in providing freedom
+4: America offers abundant opportunities for success.",4.0,4.0,0.5714285714285714,0.0,sep_mc_argsum_deberta_global_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA has strong economy and high standard of living
+2: USA provides abundant opportunities for success
+3: USA offers diverse cultural experiences and freedoms",2.5,3.0,0.3571428571428571,0.0,match_smatchtopr_key_points_bleurt_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: The United States is a good country to live in because it has a stable economy
+2: The United States is a good country, as it takes care of the health of young people
+3: The United States is a good country to live in
+4: The US is a good country to live in because of freedom of expression
+5: The USA is a good country to live in
+6: The US is the best country to live since it is a power
+7: The United States has many opportunities",4.5,4.5,0.6428571428571429,0.3571428571428571,sep_gold_clusters_uskpm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: good country
+2: stable economy
+3: economy
+4: opportunities
+5: land of opportunities",2.0,2.5,0.2857142857142857,0.5,match_summetix_bleurt_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: USA offers high quality of life.
+2: USA offers diverse opportunities for growth and success.
+3: The USA offers unparalleled freedoms and opportunities.
+4: Good country due to job opportunities and stability.
+5: USA offers great quality of life.",3.0,3.0,0.4285714285714285,0.4,match_mc_argsum_sbert_global_bleurt_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: Yes, they have a stable economy and for that reason life is easier
+2: In my personal opinion, in a country with great opportunities.
+3: The USA is a good country to live in because the freedom
+4: if it is a country with good salaries
+5: The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",4.0,4.0,0.5714285714285714,0.1999999999999999,sep_barh_bm_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: good country
+2: stable economy
+3: economy
+4: opportunities",2.0,2.0,0.2857142857142857,0.5,sep_summetix_it_0.csv
+The USA is a good country to live in,1,"1: The US has a good economy/high standard of living
+2: The US has a good health and education systems 
+3: The US has a great environment/nature
+4: The US has freedoms/ democratic rights
+5: The US has great people/culture
+6: The US is a powerful country
+7: The US offers great opportunities for individuals","1: The United States is a good country to live in because of many opportunities
+2: It is a good country to live in because of its economic and political stability
+3: The United States is a good country to live in because of its high quality of life
+4: The US is a good country to live in
+5: The United States is a good country to live in",2.0,3.0,0.2857142857142857,0.4,match_uskpm_bleurt_it_0.csv

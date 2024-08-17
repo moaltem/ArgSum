@@ -1,0 +1,31 @@
+p-right
+Abortion is a woman’s right.
+p-rape
+Rape victims need it to be legal.
+p-not_human
+A fetus is not a human yet, so it's okay to abort.
+p-mother_danger
+Abortion should be allowed when a mother's life is in danger.
+p-baby_ill_treatment
+Unwanted babies are ill-treated by parents and/or not always adopted. 
+p-birth_ctrl
+Birth control fails at times and abortion is one way to deal with it.
+p-not_murder
+Abortion is not murder.
+p-sick_mom
+Mother is not healthy/financially solvent.
+p-other
+Others
+
+c-adopt
+Put baby up for adoption.
+c-kill
+Abortion kills a life.
+c-baby_right
+An unborn baby is a human and has the right to live.
+c-sex
+Be willing to have the baby if you have sex.
+c-bad_4_mom
+Abortion is harmful for women.
+c-other
+Others

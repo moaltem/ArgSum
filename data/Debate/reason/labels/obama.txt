@@ -1,0 +1,37 @@
+p-economy
+Fixed the economy
+p-War
+Ending the wars
+p-republicans
+Better than the republican candidates
+p-decision_policies
+Makes good decisions/policies
+p-quality
+Has qualities of a good leader
+p-health
+Ensured better healthcare
+p-foreign_policies
+Executed effective foreign policies
+p-job
+Created more jobs
+p-Other
+Others
+
+c-economy
+Destroyed our economy
+c-War
+Wars are still on
+c-job
+Unemployment rate is high
+c-health
+Healthcare bill is a failure
+c-decision_policies
+Poor decision-maker
+c-republicans
+We have better republicans than Obama
+c-quality
+Not eligible as a leader
+c-foreign_policies
+Ineffective foreign policies
+c-Other
+Others

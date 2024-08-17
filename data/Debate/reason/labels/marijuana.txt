@@ -1,0 +1,25 @@
+p-not_addictive
+Not addictive
+p-medicine
+Used as a medicine for its positive effects
+p-legal
+Legalized marijuana can be controlled and regulated by the government
+p-right
+Prohibition violates human rights
+p-no_damage
+Does not cause any damage to our bodies
+p-Other
+Others
+
+c-health
+Damages our bodies
+c-mind
+Responsible for brain damage
+c-illegal
+If legalized, people will use marijuana and other drugs more
+c-crime
+Causes crime
+c-addiction
+Highly addictive
+c-Other
+Others
